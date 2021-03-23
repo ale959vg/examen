@@ -1,0 +1,13 @@
+git clone https://github.com/ale959vg/examen
+
+git status
+
+git config --global user.name "ale959vg"
+
+git config --global user.email "alemm595@gmail.com"
+
+git add examen-uf2.txt
+
+git commit
+
+git log
